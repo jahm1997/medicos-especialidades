@@ -1,0 +1,26 @@
+{
+  "name": "Sistema de Reservas Médicas",
+  "short_name": "ReservasMed",
+  "description": "Sistema completo para gestión de citas médicas y especialidades",
+  "theme_color": "#007bff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icons/medical-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["medical", "healthcare", "productivity"],
+  "lang": "es-ES"
+}

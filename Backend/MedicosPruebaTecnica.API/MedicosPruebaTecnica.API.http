@@ -1,0 +1,6 @@
+@MedicosPruebaTecnica.API_HostAddress = http://localhost:5242
+
+GET {{MedicosPruebaTecnica.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
